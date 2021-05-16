@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 fastapi = "*"
 uvicorn = "*"
+ipdb = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
